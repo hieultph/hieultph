@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Lê Triều Phương Hiếu
+# Hey there! 👋 I'm Andrew Le (Lê Triều Phương Hiếu)
 
 **Full-Stack Engineer | AI & IoT Enthusiast | Award-Winning Innovator**
 
