@@ -4,7 +4,7 @@
 
 I'm a final-year Information Technology student at Thu Dau Mot University, fueled by a passion for crafting innovative software solutions that solve real-world problems. Whether it's building responsive web apps, designing AI-driven systems, or integrating IoT for smarter living, I thrive at the intersection of code, creativity, and impact.
 
-🔭 **Currently working on:** Leading the charge to establish an AIoT Club at my university—stay tuned for some groundbreaking projects in 2025!  
+🔭 **Currently serving as:** Vice President of the AIoT Club at my university—stay tuned for some groundbreaking projects in 2025!  
 🌱 **Learning:** Diving deeper into cloud-native development and advanced machine learning models.  
 💬 **Ask me about:** Full-stack dev, AI algorithms, or my journey from competition wins to research papers!  
 ⚡ **Fun fact:** I once turned a greenhouse into a smart ecosystem—plants and tech make a great team!
@@ -18,7 +18,7 @@ I'm a final-year Information Technology student at Thu Dau Mot University, fuele
 - **Backend:** Node.js, Express, ASP.NET MVC
 - **Databases:** MongoDB, Firebase, SQL
 - **Cloud & Tools:** AWS, Advantech Cloud, Docker, Kubernetes, Netlify, Render
-- **Specialties:** AI (CNNs, pre-trained models), IoT, web development, research
+- **Specialties:** AI (Computer Vision), IoT, web development, research
 
 I’ve led teams to victory in competitions like the **TDMU Entrepreneurship Competition 2024 (Champion)** and earned accolades like the **Best Marketing Strategy Award** at H-BRIDGE Global CDP 2025. My projects range from skin cancer detection AI to encrypted chat apps—check them out below!
 
