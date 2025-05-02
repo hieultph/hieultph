@@ -26,8 +26,8 @@ I’ve led teams to victory in competitions like the **TDMU Entrepreneurship Com
 
 ## 🏆 Achievements That Light My Fire
 
-- **Quán quân (Champion)** – TDMU Entrepreneurship Competition 2024: Built a "Smart Greenhouse Monitoring Solution" to revolutionize sustainable farming.
-- **Giải Nhất (First Prize)** – TDMU Scientific Talent Award 2024: Recognized for standout research among 100+ candidates.
+- **Champion Prize** – TDMU Entrepreneurship Competition 2024: Built a "Smart Greenhouse Monitoring Solution" to revolutionize sustainable farming.
+- **First Prize** – TDMU Scientific Talent Award 2024: Recognized for standout research among 100+ candidates.
 - **Best Marketing Strategy Award** – H-BRIDGE Global CDP 2025 (Hannam University, Korea): Pioneered satellite-based rice yield forecasting.
 - **Published Author** – 2 Scopus-indexed papers at ICDAM 2024: Tackled COVID-19 detection and skin cancer accuracy with AI.
 - **Semi-Finalist** – Euréka Science Prize 2024 & AIoT Developer Innoworks 2024: Pushed boundaries in research and tech innovation.
